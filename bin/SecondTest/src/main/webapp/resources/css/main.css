@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.titleStr {
+	text-align : center;
+	font-size : 2em;
+	font-weight : bold;
+}
+.btns {
+	margin-top : 1em;
+	text-align : center;
+}
+.msgBox {
+	margin-top : 1em;
+	text-align : center;
+	color : blue;
+	font-size : 0.8em;
+	font-weight : bold;
+}
+/*
+label {			
+	position: absolute;			
+	width : 3.5em;
+	text-align : right;
+}
+*/
+.centerBox {
+	text-align: center;
+}
