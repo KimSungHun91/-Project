@@ -1,5 +1,5 @@
 /**
- * 
+ * ttttt
  */
 function checkAndMove(path) {
 	if(path == 'doSignup') {
